@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Erisbisu
 - 👀 I’m interested in ...
 -     Discord bots
--     Data Mining
+-     Data Mining and Analysis
 -     not writing code
 -     Stratechee
 - 🌱 I’m currently learning ...
 -     WVDAdmin
+-     Hypervisors
 - 💞️ I’m looking to collaborate on ...
 -     Data mining video games through Source, API's, and humans
 - 📫 How to reach me ...
