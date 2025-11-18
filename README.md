@@ -8,7 +8,7 @@
 -     WVDAdmin
 -     Hypervisors
 - 💞️ I’m looking to collaborate on ...
--     Data mining video games through Source, API's, and humans
+-     Anything that makes gaming better for MMOs and linux.
 - 📫 How to reach me ...
 -     github: @Erisbisu
 <!---
