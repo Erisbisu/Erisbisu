@@ -3,7 +3,7 @@
 -     Discord bots
 -     Data Mining and Analysis
 -     not writing code
--     Shtrachechee
+-     Shtrachegee
 - 🌱 I’m currently learning ...
 -     WVDAdmin
 -     Hypervisors
